@@ -1,0 +1,1 @@
+'Maps' folder to contain the rtabmap.db and cloud.ply files (2D occupancy grid and 3D octomap).
